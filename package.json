@@ -1,0 +1,25 @@
+{
+  "name": "DashboardAgricultura",
+  "version": "1.0.0",
+  "description": "My splendiferous Nuxt.js project",
+  "author": "(G1)",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "bootstrap-vue": "^2.1.0",
+    "chart.js": "^2.9.3",
+    "hchs-vue-charts": "^1.2.8",
+    "mongodb": "^3.5.2",
+    "nuxt": "^2.0.0",
+    "vue": "^2.6.11",
+    "vue-chartjs": "^3.5.0"
+  },
+  "devDependencies": {}
+}
